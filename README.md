@@ -2,7 +2,7 @@
 
 Braden Farris
 
-##Opinion of the Instructional Assignment
+## Opinion of the Instructional Assignment
 
 My initial response to the first assignment was a good one. I believe an instructional paper is an easier off the bat assignment, and it allows an oppurtunity to experience GitHub for the first time. I also felt like my topic of choice gave me a real reason to do well on the assignment. I love bird hunting and training our dogs, so doing an instructional piece on bird dog training had some added value. I already knew everything about it, so it gave me the freedom to actaully write about something I had an interest in, and not just a randomely assigned topic. For that reason, I believe my instructions worked very well, because I cared about them and wanted to do a good job explaining the art of training bird dogs using homing pigeons. 
 
